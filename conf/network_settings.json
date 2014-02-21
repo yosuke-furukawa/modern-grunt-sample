@@ -1,0 +1,11 @@
+{
+  "livereload" : {
+    "port" : 30000
+  },
+  "server" : {
+    "port" : 8010
+  },
+  "proxy" : {
+    "port" : 8011
+  }
+}
